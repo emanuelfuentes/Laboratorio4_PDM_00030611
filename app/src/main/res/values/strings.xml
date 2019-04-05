@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="movie_name_string">Movie Name</string>
+    <string name="movie_title_string">Movie title</string>
+    <string name="rate_ex_string">Rate</string>
+    <string name="lorem_30_string"/>
+    <string name="runtime_ex_string"/>
+</resources>
